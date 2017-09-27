@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RunNing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RunNing_jar</output-path>
+    <root id="archive" name="javaFXDemo.jar">
+      <element id="module-output" name="javaFXDemo" />
+    </root>
+  </artifact>
+</component>
